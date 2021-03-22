@@ -4,6 +4,7 @@
 !/.git
 !/.gitignore
 !/README.md
+!/screenshot.png
 
 # Only keep customizations
 !/icons

@@ -17,4 +17,4 @@ You will also want to replace the `icons` directory if with the ones here if you
 This configuration is specific to my machine, so if you want to use this yourself remember to change [refind.conf](./refind.conf) to match your system.
 Specifically, you will need to change the OS stanzas as they are hard-coded to locate my installed operating systems on my hard drives.
 
-You'll also want to edit the [background image](./background.png) as that has my own [contact](contact) details on it.
+You'll also want to edit the [background image](./background.png) as that has my own contact details on it.
